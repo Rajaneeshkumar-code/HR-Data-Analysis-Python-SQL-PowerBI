@@ -1,6 +1,6 @@
 # 📊 HR Data Analysis — Python | SQL | Power BI
 
-![Power BI Dashboard](Screenshots/dashboard_screenshot.png)
+![Power BI Dashboard](Screenshots/HR_DASHBOARD_SCREENSHOT.png)
 
 > An end-to-end HR data analysis project covering data cleaning, SQL-based querying, and interactive Power BI dashboarding — built to uncover actionable workforce insights.
 
